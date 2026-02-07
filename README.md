@@ -128,10 +128,15 @@ LangGraph represents **production-ready GenAI architecture**, enabling scalable 
 
 These official repositories and organizations inspire and support the concepts explored here:
 
-- Hugging Face → https://github.com/huggingface  
-- LangChain → https://github.com/langchain-ai  
-- LangGraph → https://github.com/langchain-ai/langgraph  
-- OpenAI → https://github.com/openai   
-- Chroma (Vector DB) → https://github.com/chroma-core  
-- FAISS (Similarity Search) → https://github.com/facebookresearch/faiss
+-Hugging Face — https://huggingface.co/            (AI models, datasets & community)
+
+-LangChain — https://www.langchain.com/            (framework for building LLM apps & agents)
+
+-LangGraph — https://www.langchain.com/langgraph   (agent orchestration framework by LangChain)
+
+-OpenAI — https://openai.com/                      (AI research organization & API platform)
+
+-Chroma — https://www.trychroma.com/               (Vector Database for embeddings & search)
+
+-FAISS — https://faiss.ai/                         (Facebook AI Similarity Search library)
   
