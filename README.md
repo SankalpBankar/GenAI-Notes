@@ -6,9 +6,9 @@ GitHub • Python • AI • LLMs
 
 ---
 
-## 🚀 What is Gen-AI Hub?
+## 🚀 What is GenAI-Notes?
 
-**Gen-AI Hub** is a structured repository focused on understanding and exploring **Generative AI systems**, from foundational concepts to **advanced, production-grade frameworks** like agents and graph-based workflows.
+**GenAI-Notes** is a structured repository focused on understanding and exploring **Generative AI systems**, from foundational concepts to **advanced, production-grade frameworks** like agents and graph-based workflows.
 
 This repository emphasizes **conceptual clarity, architecture understanding, and system-level thinking**, making it suitable for **placements, interviews, and real-world AI discussions**.
 
