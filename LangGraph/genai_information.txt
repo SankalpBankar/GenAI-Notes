@@ -1,0 +1,43 @@
+Generative AI (GenAI) - Overview
+
+1.  What is Generative AI? Generative AI refers to artificial
+    intelligence systems that can create new content such as text,
+    images, audio, video, and code. It learns patterns from large
+    datasets and generates outputs that resemble human-created data.
+
+2.  How it works Most GenAI models are based on deep learning
+    architectures like Transformers. They are trained on massive
+    datasets and use probability to predict the next token in a
+    sequence.
+
+3.  Popular Models
+
+-   GPT (Generative Pre-trained Transformer)
+-   DALL·E (Image generation models)
+-   Stable Diffusion
+-   Midjourney
+-   LLaMA
+
+4.  Applications
+
+-   Chatbots and virtual assistants
+-   Content creation (blogs, ads, scripts)
+-   Code generation and debugging
+-   Image, audio, and video synthesis
+-   Healthcare and education support
+
+5.  Advantages
+
+-   Automates creative work
+-   Saves time
+-   Enhances productivity
+-   Assists in learning and research
+
+6.  Limitations
+
+-   May produce incorrect or biased outputs
+-   Requires large compute resources
+-   Ethical concerns (misuse, deepfakes)
+
+7.  Future Scope Generative AI will become more multimodal, accurate,
+    and integrated into everyday tools across industries.

@@ -139,4 +139,5 @@ These official repositories and organizations inspire and support the concepts e
 -Chroma — https://www.trychroma.com/               (Vector Database for embeddings & search)
 
 -FAISS — https://faiss.ai/                         (Facebook AI Similarity Search library)
+
   
