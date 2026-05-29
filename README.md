@@ -140,4 +140,3 @@ These official repositories and organizations inspire and support the concepts e
 
 -FAISS — https://faiss.ai/                         (Facebook AI Similarity Search library)
 
-  
