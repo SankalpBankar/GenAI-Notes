@@ -1,4 +1,4 @@
-# GenAI-Notes
+# **GenAI-Notes**
 
 *Generative AI • LLMs • Agents • Graph-based Workflows*
 
